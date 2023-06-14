@@ -1,16 +1,17 @@
-# trading_app
 
-A new Flutter project.
+# Cyrpto Example
 
-## Getting Started
+Used API 
+- https://www.alphavantage.co/documentation/
+- https://www.tradingview.com/widget/advanced-chart/
 
-This project is a starting point for a Flutter application.
+Used Package
+- Provider,
+- Dio
+- Webview_flutter
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/sderck1.png)
